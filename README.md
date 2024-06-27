@@ -18,7 +18,7 @@ When the user chooses to quit, the contents of the BST are traversed and written
 
 ## Video
 
-[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+https://github.com/rchatthuska/Golfer/issues/1#issue-2376556018
 
 
 
