@@ -2,7 +2,7 @@
 <h2 align="center">Golfer Information Management System</h2>
 
 <p align="center"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /></p>
-:heavy_check_mark: A program for running N-Queens simulation.
+:heavy_check_mark:  A program for managing golfer information using a Binary Search Tree.
 
 ## How to Run
 1. Download BTNode.java, Golfer. jave, GolferScoresTree.java, TreeBag.java
