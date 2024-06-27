@@ -15,10 +15,10 @@ As each line is read, a Golfer object is created and placed into a Binary Search
 
 When the user chooses to quit, the contents of the BST are traversed and written back to update the original data file. This allows the updated data to be reused in subsequent runs of the program. For testing purposes, it is recommended to use a differently named file to avoid corrupting the original data during debugging.
 
-## Video
+
 ## Video
 
-[Watch the video](https://github.com/rchatthuska/Golfer/blob/main/golfer%20-%201719450574197.mp4)
+[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
 
 
 
